@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977280749652",
+    "project_id": "ejemplologin-22baa",
+    "storage_bucket": "ejemplologin-22baa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977280749652:android:93fe278b91e7b710781dc1",
+        "android_client_info": {
+          "package_name": "alcala.jose.practicaautenticacionalcalaj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrlZpOiud8-6Bp9GOh-3nynRc-YN2wS8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
